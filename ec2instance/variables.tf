@@ -1,19 +1,19 @@
 variable "aws_region" {
-  default = "us-east-1"
+  default = "aws_region"
 }
 
 variable "aws_access_key" {
-  default = "yourkey"
+  default = "aws_access_key"
 }
 
 variable "aws_secret_key" {
-  default = "yoursecret"
+  default = "aws_secret_key"
 }
 
 variable "profile" {
-  default = "dummy"
+  default = "profile"
 }
 
 variable "key_pair" {
-  default = "your_key_pair"
+  default = "key_pair"
 }

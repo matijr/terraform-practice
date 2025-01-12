@@ -1,0 +1,5 @@
+aws_region = "us-east-1"
+aws_access_key = "yourkey"
+aws_secret_key = "yoursecret"
+profile = "dummy"
+key_pair = "your_key_pair"
